@@ -1,0 +1,2 @@
+# Hastane
+hastane_otomasyonu
